@@ -1,0 +1,5 @@
+hdmi-sound-switch (0.1) xenial; urgency=low
+
+    * Initial release based on scripts posted at http://askubuntu.com/questions/263248
+
+ -- Dmitry Kostenko <codeforsmile@gmail.com>  Tue, 2 Aug 2016 23:50:00 +0200

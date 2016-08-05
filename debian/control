@@ -1,0 +1,11 @@
+Source: hdmi-sound-switch
+Section: unknown
+Priority: optional
+Maintainer: Dmitry Kostenko <codeforsmile@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.4
+Homepage: https://github.com/x2048/hdmi_sound_switch
+
+Package: hdmi-sound-switch
+Architecture: all
+Description: Automatically switch to HDMI sound when connected

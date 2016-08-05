@@ -1,0 +1,1 @@
+SUBSYSTEM=="drm", RUN+="/usr/lib/hdmi_sound_switch/hdmi_sound_switch"
